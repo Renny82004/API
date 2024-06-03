@@ -1,2 +1,3 @@
 # API
-Esta es una api que tiene características de la api the Rick and Morty
+Este repositorio consiste en una API que consume información de la API de Rick and Morty. Contiene una interfaz en la cual  se podrá acceder a los datos de algunos de los personajes que se mostrarán en la misma. Dicha información se podrá acceder mediante el uso del Método GET.
+
